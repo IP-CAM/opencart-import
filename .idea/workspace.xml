@@ -1,9 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:import" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccf8700f-76bb-48aa-bd75-daa29ca18eb4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/import.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/import.xml" beforeDir="false" />
+    <list default="true" id="ccf8700f-76bb-48aa-bd75-daa29ca18eb4" name="Default Changelist" comment="Upload all module">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +45,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\server20\domains\import-opencart" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,14 +58,45 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608052215809</updated>
-      <workItem from="1608052216875" duration="2742000" />
+      <workItem from="1608052216875" duration="3601000" />
     </task>
+    <task id="LOCAL-00001" summary="Upload all module">
+      <created>1608060375976</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608060375976</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Upload all module" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload all module" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="184" y="125" key="DiffContextDialog" timestamp="1608060924859">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="184" y="125" key="DiffContextDialog/0.40.1920.1040/1920.0.1280.680@0.40.1920.1040" timestamp="1608060924859" />
+    <state x="552" y="292" key="Vcs.Push.Dialog.v2" timestamp="1608060937734">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="552" y="292" key="Vcs.Push.Dialog.v2/0.40.1920.1040/1920.0.1280.680@0.40.1920.1040" timestamp="1608060937734" />
     <state x="667" y="293" width="585" height="592" key="find.popup" timestamp="1608052713712">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
